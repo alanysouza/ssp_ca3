@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <name>Best Women's Shoes</name>
+    <menu>
+        <category name="Boots">
+            <product>
+                <listing>Ankle Boots</listing>
+                <price>90.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Black</colors>
+                <colors>Brown</colors>
+                <colors>Light Beige</colors>
+            </product>
+            <product>
+                <listing>Knee High Boots</listing>
+                <price>120.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Black</colors>
+                <colors>Brown</colors>
+                <colors>Beige</colors>
+            </product>
+            <product>
+                <listing>Heel Boots</listing>
+                <price>150.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Black</colors>
+                <colors>Brown</colors>
+                <colors>White</colors>
+            </product>
+        </category>
+        <category name="Trainers">
+            <product>
+                <listing>Running Shoes</listing>
+                <price>50.00 €</price>
+                <colors>White</colors>
+                <colors>Black</colors>
+                <colors>Pink and White</colors>
+            </product>
+            <product>
+                <listing>Hiking Shoes</listing>
+                <price>70.00 €</price>
+                <colors>Black</colors>
+                <colors>Beige</colors>
+                <colors>Grey</colors>
+            </product>
+            <product>
+                <listing>Cross Shoes</listing>
+                <price>50.00 €</price>
+                <colors>Black</colors>
+                <colors>White</colors>
+                <colors>Black and White</colors>
+            </product>
+        </category>
+        <category name="Sandals">
+            <product>
+                <listing>High Heels Sandal</listing>
+                <price>90.00 €</price>
+                
+                <colors>White</colors>
+                <colors>Light Beige</colors>
+                <colors>Light Pink</colors>
+            </product>
+            <product>
+                <listing>Summer Sandals</listing>
+                <price>45.00 €</price>
+                
+                <colors>White</colors>
+                <colors>Light Blue</colors>
+                <colors>Light Green</colors>
+            </product>
+            <product>
+                <listing>Stripped Sandal</listing>
+                <price>40.00 €</price>
+                
+                <colors>Black</colors>
+                <colors>Gold</colors>
+                <colors>White</colors>
+            </product>
+        </category>
+        <category name="Slippers">
+            <product>
+                <listing>UGG Slippers</listing>
+                <price>90.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Beige</colors>
+                <colors>White</colors>
+                <colors>Black</colors>
+            </product>
+            <product>
+                <listing>Polo Slippers</listing>
+                <price>70.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Black</colors>
+                <colors>Brown</colors>
+                <colors>Beige</colors>
+            </product>
+            <product>
+                <listing>Schuh Slippers</listing>
+                <price>30.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
+                <colors>Beige</colors>
+                <colors>Grey</colors>
+                <colors>white</colors>
+            </product>
+        </category>
+    </menu>
+</brand>
