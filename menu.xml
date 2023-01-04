@@ -41,6 +41,10 @@
             <product>
                 <listing>Running Shoes</listing>
                 <price>50.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>White</colors>
                 <colors>Black</colors>
                 <colors>Pink and White</colors>
@@ -48,6 +52,10 @@
             <product>
                 <listing>Hiking Shoes</listing>
                 <price>70.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>Black</colors>
                 <colors>Beige</colors>
                 <colors>Grey</colors>
@@ -55,6 +63,10 @@
             <product>
                 <listing>Cross Shoes</listing>
                 <price>50.00 €</price>
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>Black</colors>
                 <colors>White</colors>
                 <colors>Black and White</colors>
@@ -64,7 +76,10 @@
             <product>
                 <listing>High Heels Sandal</listing>
                 <price>90.00 €</price>
-                
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>White</colors>
                 <colors>Light Beige</colors>
                 <colors>Light Pink</colors>
@@ -72,7 +87,10 @@
             <product>
                 <listing>Summer Sandals</listing>
                 <price>45.00 €</price>
-                
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>White</colors>
                 <colors>Light Blue</colors>
                 <colors>Light Green</colors>
@@ -80,7 +98,10 @@
             <product>
                 <listing>Stripped Sandal</listing>
                 <price>40.00 €</price>
-                
+                <size>36</size>
+                <size>37</size>
+                <size>38</size>
+                <size>39</size>
                 <colors>Black</colors>
                 <colors>Gold</colors>
                 <colors>White</colors>
